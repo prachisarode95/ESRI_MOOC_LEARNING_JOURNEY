@@ -46,4 +46,6 @@ I created a web-based interactive story map titled:
 
 👉 [Explore My Story Map Tour](https://arcg.is/1Gji9a2)
 
+👉 ![Scan for Mobile Device](https://github.com/user-attachments/assets/db13d975-2202-406b-8da8-89b4c75ade21)
+
 ---
