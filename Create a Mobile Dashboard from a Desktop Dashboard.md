@@ -43,6 +43,6 @@ A redesigned dashboard optimized for smaller screens. The final output included:
 
 > ✅ Published for both desktop and mobile views.
 
-[Link to Live Desktop Dashboard App](https://mooc11.maps.arcgis.com/apps/dashboards/ef445e3302134a1db245bd0cdde562c1)
+> [🌐 View My Mobile Dashboard](https://mooc11.maps.arcgis.com/apps/dashboards/ef445e3302134a1db245bd0cdde562c1)
 
 ---
