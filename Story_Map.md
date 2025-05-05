@@ -44,6 +44,6 @@ I created a web-based interactive story map titled:
 
 ## 🌐 View the Live Story Map
 
-👉 [Explore My Story Map Tour](https://storymaps.arcgis.com/stories/bac9ffda3ae7414488e364d3183c419e?header)
+👉 [Explore My Story Map Tour](https://arcg.is/1Gji9a2)
 
 ---
