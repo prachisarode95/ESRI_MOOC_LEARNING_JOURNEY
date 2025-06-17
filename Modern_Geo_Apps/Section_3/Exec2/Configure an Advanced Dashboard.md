@@ -43,6 +43,7 @@ Configured an existing dashboard into the advanced interactive dashboard that:
 
 > ✅ Published using ArcGIS Online Dashboard viewer.
 
-> [🌐 View My Advanced Dashboard](https://mooc11.maps.arcgis.com/apps/dashboards/ea3e49fa05f345baac0e3d7a72baab0a)
+- [View My Advanced Dashboard](https://mooc11.maps.arcgis.com/apps/dashboards/ea3e49fa05f345baac0e3d7a72baab0a)
+- [Watch the Demo](https://drive.google.com/file/d/19HIQJPMaxGx4WVddHF0NYysfHdGmEeVg/view?usp=drive_link)
 
 ---
