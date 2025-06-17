@@ -28,12 +28,13 @@ This project highlights the use of the **ArcGIS Instant Apps – Atlas template*
 
 ---
 
-## 📸 Demo Preview
+## Demo Preview
 
-🔗 **[Live App](https://mooc11.maps.arcgis.com/apps/instant/atlas/index.html?appid=2477e9c0995a4e3bbec0859d26131298&webmap=7c17581f8cbc4595b593327c667d005f)**
+  - **[Live App](https://mooc11.maps.arcgis.com/apps/instant/atlas/index.html?appid=2477e9c0995a4e3bbec0859d26131298&webmap=7c17581f8cbc4595b593327c667d005f)**
+
+  - **[Watch the demo](https://drive.google.com/file/d/1JCu8ULpWLUzyKYTPIdEgbfleydOorlrD/view?usp=drive_link)**
 
 ---
-
 ## 🧩 Steps Followed
 
 1. **Explored an example app** made with the Atlas template:
