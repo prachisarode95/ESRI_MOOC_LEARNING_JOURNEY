@@ -31,8 +31,6 @@ This is a part of the **ESRI MOOC: "Building GeoApps"** and showcases the creati
 
 ## 📸 Demo Preview
 
-[![Watch the Demo]](https://github.com/user-attachments/assets/60cdaa74-d364-4db3-b241-7436bd0808a7)
-
 🔗 **[Link_to_interactive_published_app](https://arcg.is/1C1THy2)**
 
 ---
